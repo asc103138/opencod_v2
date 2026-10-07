@@ -1,0 +1,12 @@
+# 本地忽略（公開 repo，嚴守）
+.env
+.env.*
+*.key
+*.token
+credentials.json
+token.json
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.venv/
