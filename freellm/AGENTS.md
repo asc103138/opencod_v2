@@ -5,7 +5,7 @@
 - 專案用途：freeAPI —— 免費 LLM API 整合（awesome-freellm-apis 推薦模型接入 OpenCode）
 - 主要工作目錄：`/Users/tunyuan/opencod_v2/freellm`
 - 父 repo：https://github.com/asc103138/opencod_v2（公開，子目錄追蹤，不另建 repo）
-- 主力模型：`groq/openai/gpt-oss-120b`，輕量：`groq/openai/gpt-oss-20b`，備援：`gemini/gemini-3.8-flash`
+- 主力模型：`gemini/gemini-3.8-flash`（免費大 TPM，吃得下 10-MCP 全開的重型 session），輕量：`groq/openai/gpt-oss-20b`，Groq 簡短任務用 `groq/openai/gpt-oss-120b`
 
 ## 資料夾結構
 ```
