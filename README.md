@@ -11,7 +11,8 @@
 - `AGENTS.md` —— 專案規則入口（含同步對照表）
 - `handoff.md` —— 多 Agent 交接紀錄
 - `docs/index.html` —— GitHub Pages 落地頁
-- `scripts/` —— 同步輔助腳本（預留）
+- `scripts/` —— 同步輔助腳本（含 `pdfcraft-check.sh` 安裝檢查）
+- `pdfcraft/` —— pdfcraft Mac 適性化筆記（v0.4.0 預編譯安裝＋MCP 片段＋教學任務分工）
 
 ## 同步指令
 

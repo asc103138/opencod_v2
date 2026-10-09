@@ -1,0 +1,14 @@
+{
+  "mcp": {
+    "pdfcraft": {
+      "type": "local",
+      "command": [
+        "/Users/tunyuan/.local/bin/pdfcraft-cli",
+        "mcp",
+        "--root",
+        "/Users/tunyuan/opencode_0715"
+      ],
+      "enabled": true
+    }
+  }
+}
