@@ -19,6 +19,9 @@
 - Vault 路徑：`/Users/tunyuan/opencode_0715`
 - 專案駕駛艙：`/Users/tunyuan/opencode_0715/04-專案/opencod_v2-專案駕駛艙.md`
 
+## 子專案
+- `freellm/`：免費 LLM API 整合（Groq 主力、Gemini 備援），見 `freellm/AGENTS.md`，駕駛艙 `04-專案/freellm-專案駕駛艙.md`
+
 ## 工作與安全規則
 - 回應使用繁體中文（台灣）。
 - 開工時讀本檔、讀 Obsidian 駕駛艙、檢查 Git 狀態。

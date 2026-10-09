@@ -1,0 +1,12 @@
+# 子專案本地忽略（父 repo 是公開的，嚴守）
+.env
+.env.*
+*.key
+*.token
+credentials.json
+token.json
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.venv/
